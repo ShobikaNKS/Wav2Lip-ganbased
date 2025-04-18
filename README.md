@@ -11,3 +11,4 @@ The system is designed to work in **real-time** ⏱️, making it ideal for vari
 This technology also holds significant potential for **accessibility**, providing innovative solutions for individuals who cannot speak, allowing them to express themselves through lifelike visual speech representation. 🌍
 
 Overall, this project opens new possibilities in **interactive media** 🎥, **communication** 💬, and **accessibility** ♿, offering a versatile tool for a wide range of applications.
+gan file : https://drive.google.com/file/d/1L06p_D1nxRPRQ2WcnaBrDg0d_oWcBcs9/view?usp=sharing
